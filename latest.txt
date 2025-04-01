@@ -1,1 +1,2 @@
-https://drive.google.com/uc?export=download&id=173bSnD9knmwZrg_Ql3uA3QtoakfsWCkn
+https://raw.githubusercontent.com/Federfico87/nodalis/main/nodalis_webapp.tar.gz
+
